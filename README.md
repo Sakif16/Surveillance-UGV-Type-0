@@ -24,6 +24,11 @@ Surveillance-UGV-Type-0 is a robotics project that implements an autonomous Unma
 - **Embedded Systems** (autonomous vehicle logic)
 
 ---
+##  Video Showcase (Click!)
+
+[![Watch the video](https://img.youtube.com/vi/xMGt-dS8Khw/maxresdefault.jpg)](https://youtu.be/xMGt-dS8Khw)
+
+---
 
 ## Circuit Diagram
 ![UGV Circuit Diagram](public/ugv0.png)
@@ -52,4 +57,4 @@ The circuit diagram above shows the complete wiring and component layout for the
 ---
 
 ### Fun Fact
-The UGV was intentionally stripped out of its original suicidal logic to attempt to crash into the detected anomaly (with immaginary explosive filler of course) in order to comply with "academic" guidelines/polices. 
+The UGV was intentionally stripped out of its original suicidal logic of attempting to crash into the detected anomaly (with immaginary explosive filler of course) in order to comply with "academic" guidelines/polices. 
