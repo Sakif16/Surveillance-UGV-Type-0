@@ -57,4 +57,4 @@ The circuit diagram above shows the complete wiring and component layout for the
 ---
 
 ### Fun Fact
-The UGV was intentionally stripped out of its original suicidal logic of attempting to crash into the detected anomaly (with immaginary explosive filler of course) in order to comply with "academic" guidelines/polices. 
+The UGV was intentionally stripped out of its original suicidal logic of attempting to crash into the detected anomaly (with immaginary explosive filler of course) in order to comply with "academic" guidelines/policies. 
